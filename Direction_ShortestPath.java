@@ -1,6 +1,6 @@
 public class Direction_ShortestPath {
     public static void main(String[] args) {
-        String str = "NENENEES";
+        String str = "NS";
 
         int y=0,x=0;
 
