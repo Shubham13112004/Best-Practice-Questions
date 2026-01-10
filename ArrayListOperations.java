@@ -13,7 +13,6 @@ public class ArrayListOperations {
         list.addAll(list1);
         System.out.println(list);
 
-        ArrayList<Integer> list2 = new ArrayList<>();
-        list2 =(ArrayList list)list.clone();
+    
     }
 }
